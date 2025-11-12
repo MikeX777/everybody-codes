@@ -1,0 +1,26 @@
+Eldenluth,Eldenvalir,Ylargalor,Ylarluth,Raelroth,Caelvalir,Raelluth,Caelnyn,Caeldax,Ildnyn,Caelilor,Elardax,Ildroth,Elarfyr,Voraxnyn,Ildnyn,Raelvalir,Rythroth,Eldennyn,Skarroth,Eadroth,Ildvalir,Eldengalor,Elarroth,Caelgalor,Ylardax,Eldendax,Elarnyn,Ylarfyr,Eldenluth,Caelluth,Eadvalir,Elargalor,Rythnyn,Rythluth,Raelgalor,Skardax,Ylarvalir,Caelfyr,Eadluth,Ildgalor,Skarnyn,Skarfyr,Caelroth,Raelfyr,Rythvalir,Ylarilor,Elarnyn,Eldenfyr,Voraxroth,Raelluth,Ylarnyn,Raelnyn,Eadilor,Voraxluth,Skargalor,Raelilor,Skarnyn,Eadnyn,Voraxgalor,Eldenilor,Caelnyn,Elarvalir,Rythluth,Voraxnyn,Ylarroth,Ylarnyn,Elarluth,Raelnyn,Ildluth,Skarluth,Voraxdax,Eldennyn,Ildilor,Rythdax,Eadfyr,Ilddax,Caelluth,Eldenroth,Skarluth,Rythnyn,Rythgalor,Voraxluth,Skarvalir,Elarilor,Voraxilor,Rythfyr,Ylarluth,Eadnyn,Eadluth,Raeldax,Ildfyr,Voraxfyr,Voraxvalir,Rythilor,Ildluth,Skarilor,Eadgalor,Eaddax,Elarluth
+
+S > k
+l > l,u,v,o,i,n,r,d,f,g
+u > t
+t > h
+v > a
+i > l,r
+g > a
+x > l,n,r,i,v,d,f,g
+k > v
+V > o
+e > l,n
+y > n,r,v
+d > l,n,r,i,v,d,a,f,g,e
+f > y
+o > t,r,v
+E > a,l
+r > o,a,l,n,r,i,v,d,f,g
+a > e,l,x,r,v
+R > a,y
+n > y,l,n,r,i,v,d,f,g
+I > l
+C > a
+h > l,n,r,i,v,d,f,g
+Y > l

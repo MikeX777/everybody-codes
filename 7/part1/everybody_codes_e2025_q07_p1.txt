@@ -1,0 +1,16 @@
+Quarnzyth,Eldenluth,Eldengarath,Nyluth,Quarnluth,Eldenzyth,Nygarath,Quarngarath,Nyzyth
+
+N > y
+e > n
+d > e
+y > g,t,b
+n > z,l,g
+a > r,t
+Q > u
+E > l
+r > a,n
+t > h
+z > y
+l > u,b
+g > a
+u > b,t
